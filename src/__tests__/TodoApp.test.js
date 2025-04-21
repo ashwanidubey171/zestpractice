@@ -1,4 +1,3 @@
-// src/__tests__/TodoApp.test.js
 import React from 'react';
 import { render, screen, fireEvent } from '@testing-library/react';
 import TodoApp from '../components/TodoApp';
